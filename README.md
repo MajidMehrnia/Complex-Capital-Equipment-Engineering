@@ -1,4 +1,4 @@
-<img width="1235" height="623" alt="image" src="https://github.com/user-attachments/assets/24de954e-ba28-4356-b141-23a873e60a50" />
+<img width="1238" height="609" alt="image" src="https://github.com/user-attachments/assets/a46cd8e8-9f8f-4471-a358-34e232e8c530" />
 
 ## Description
 This repository delivers a comprehensive, systems-engineering framework for thermal management, designed specifically to tackle the thermodynamic challenges of operating in high-temperature, high-humidity tropical environments. The project bridges the gap between complex multi-physics engineering and strategic product lifecycle governance. To provide a clean, modular overview, the technical documentation and artifacts are divided into two distinct sections: 
