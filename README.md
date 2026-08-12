@@ -1,7 +1,9 @@
-## Description
-This repository delivers a comprehensive, systems-engineering framework for Data Centre Process Cooling, designed specifically to tackle the thermodynamic challenges of operating in high-temperature, high-humidity tropical environments. The project bridges the gap between complex multi-physics engineering and strategic product lifecycle governance. To provide a clean, modular overview, the technical documentation and artifacts are divided into two distinct sections: 
+<img width="1235" height="623" alt="image" src="https://github.com/user-attachments/assets/24de954e-ba28-4356-b141-23a873e60a50" />
 
-* **Section 1:** Covers the macro-level conceptual cooling architecture and links to the foundational system design. Available in my companion repository: [Data-Center-Process-Cooling](https://github.com/MajidMehrnia/Data-Center-Process-Cooling)
+## Description
+This repository delivers a comprehensive, systems-engineering framework for thermal management, designed specifically to tackle the thermodynamic challenges of operating in high-temperature, high-humidity tropical environments. The project bridges the gap between complex multi-physics engineering and strategic product lifecycle governance. To provide a clean, modular overview, the technical documentation and artifacts are divided into two distinct sections: 
+
+* **Section 1:** Covers the macro-level conceptual thermal management architecture and links to the foundational system design. Available in my companion repository: [Data-Center-Process-Cooling](https://github.com/MajidMehrnia/Data-Center-Process-Cooling)
   
 * **Section 2:** The following section focuses on the hardware-level co-simulation framework, transient control validation, and the overarching PLM governance model.
 
